@@ -1,0 +1,936 @@
+# Translation of Plugins - Responsive Slider Gallery &#8211; Image Slideshow Maker - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Responsive Slider Gallery &#8211; Image Slideshow Maker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-13 12:00:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Responsive Slider Gallery &#8211; Image Slideshow Maker - Stable (latest release)\n"
+
+#: responsive-slider-gallery.php:255
+msgid "Copy Responsive Slider Shortcode"
+msgstr "Скопировать шорткод Responsive Slider"
+
+#: responsive-slider-gallery.php:263
+msgid "Shortcode copied to clipboard!"
+msgstr "Шорткод скопирован в буфер обмена!"
+
+#: responsive-slider-gallery.php:264
+msgid "Copy & Embed shotcode into any Page/ Post / Text Widget to display gallery."
+msgstr "Скопируйте и вставьте шорткод в любую страницу/запись/текстовый виджет для отображения галереи."
+
+#: slider-settings.php:73 slider-settings.php:80 slider-settings.php:114
+#: slider-settings.php:121 slider-settings.php:140 slider-settings.php:147
+#: slider-settings.php:179 slider-settings.php:186 slider-settings.php:205
+#: slider-settings.php:212 slider-settings.php:231 slider-settings.php:238
+#: slider-settings.php:257 slider-settings.php:264 slider-settings.php:283
+#: slider-settings.php:290 slider-settings.php:309 slider-settings.php:316
+msgid "checked=checked"
+msgstr "checked=checked"
+
+#: slider-settings.php:384
+msgid "Image Gallery"
+msgstr "Image Gallery"
+
+#: slider-settings.php:380
+msgid "Portfolio Filter Gallery"
+msgstr "Portfolio Filter Gallery"
+
+#: slider-settings.php:371
+msgid "$399"
+msgstr "$399"
+
+#: slider-settings.php:389
+msgid "Slider Responsive Slideshow"
+msgstr "Slider Responsive Slideshow"
+
+#: slider-settings.php:393
+msgid "Media Slider"
+msgstr "Media Slider"
+
+#: slider-settings.php:383
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: docs.php:9
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: our-theme/awp-theme.php:44
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: docs.php:20
+msgid "Here"
+msgstr "Здесь"
+
+#: docs.php:20
+msgid "id = 111"
+msgstr "id = 111"
+
+#: slider-settings.php:394
+msgid "Weather Effect"
+msgstr "Эффект погоды"
+
+#: slider-settings.php:388
+msgid "Facebook Likebox Plugin"
+msgstr "Плагин Facebook Likebox"
+
+#: slider-settings.php:392
+msgid "Google Plus Badge"
+msgstr "Бейдж Google Plus"
+
+#: slider-settings.php:382
+msgid "Grid Gallery"
+msgstr "Галерея Сетка"
+
+#: slider-settings.php:387
+msgid "Contact Form Widget"
+msgstr "Виджет контактной формы"
+
+#: slider-settings.php:385
+msgid "Photo Gallery"
+msgstr "Галерея Фото"
+
+#: slider-settings.php:390
+msgid "Video Gallery"
+msgstr "Галерея Видео"
+
+#: slider-settings.php:381
+msgid "Blog Filter Gallery"
+msgstr "Галерея фильтров блога"
+
+#: slider-settings.php:395
+msgid "Instagram Type Gallery"
+msgstr "Галерея типов Instagram"
+
+#: docs.php:4
+msgid "Welcome to Responsive Slider Gallery Standart Version Docs"
+msgstr "Добро пожаловать в Responsive Slider Gallery стандартная версия Документы"
+
+#: docs.php:5
+msgid "Getting started with pluign"
+msgstr "Начало работы с плагином"
+
+#: docs.php:6
+msgid "Follow steps to create & publish slider"
+msgstr "Следуйте инструкциям, чтобы создать и опубликовать слайдер"
+
+#: docs.php:8
+msgid "Step 1 - Donwload Product"
+msgstr "Шаг 1 - Загрузить товар"
+
+#: docs.php:9
+msgid "Download the plugin from"
+msgstr "Загрузите плагин из"
+
+#: docs.php:11
+msgid "Step 2 - Install & Activate Plugin"
+msgstr "Шаг 2 - Установите и активируйте плагин"
+
+#: docs.php:12
+msgid "You had downloaded plugin from WordPress.org. Now, login to your WordPress site upload the plugin and activate."
+msgstr "Вы скачали плагин с WordPress.org. Теперь войдите на свой сайт WordPress, загрузите плагин и активируйте его."
+
+#: docs.php:14
+msgid "Step 3 - Create A Slider"
+msgstr "Шаг 3 — Создайте слайдер"
+
+#: docs.php:17
+msgid "Step 4 - Display Slider On Site"
+msgstr "Шаг 4. Отображение слайдера на сайте"
+
+#: docs.php:18
+msgid "Our new Slider shortcode has been created in last step. Now create a new Page or Post to display created slider shortcode on blog."
+msgstr "Наш новый шорткод Slider был создан на последнем шаге. Теперь создайте новую страницу или запись, чтобы отобразить созданный шорткод слайдера в блоге."
+
+#: docs.php:19
+msgid "[responsive-slider id=111]"
+msgstr "[responsive-slider id=111]"
+
+#: docs.php:20
+msgid "is your slider post id."
+msgstr "id вашего слайдера."
+
+#: docs.php:24
+msgid "Try Premium Slider Plugin"
+msgstr "Попробуйте премиальный плагин слайдера"
+
+#: docs.php:25
+msgid "Premium Slider Plugin"
+msgstr "Премиальный плагин слайдера"
+
+#: docs.php:29
+msgid "More Ways to Publish & Customize Slider"
+msgstr "Дополнительные способы публикации и настройки слайдера"
+
+#: docs.php:30
+msgid "Customize Slider"
+msgstr "Настроить слайдер"
+
+#: docs.php:35
+msgid "Post your feedback about Slider Gallery Plguin on WordPress.org"
+msgstr "Разместите свой отзыв о плагине Slider Gallery на WordPress.org"
+
+#: docs.php:36
+msgid "Post Feedback"
+msgstr "Опубликовать отзыв"
+
+#: our-theme/awp-theme.php:33
+msgid "ANEEQ PREMIUM"
+msgstr "ANEEQ PREMIUM"
+
+#: our-theme/awp-theme.php:33
+msgid "WORDPRESS THEME"
+msgstr "ТЕМЫ WORDPRESS"
+
+#: our-theme/awp-theme.php:37
+msgid "LIVE DEMO"
+msgstr "ДЕМО В РЕАЛЬНОМ ВРЕМЕНИ"
+
+#: our-theme/awp-theme.php:53
+msgid "Multi Purpose"
+msgstr "Многоцелевой"
+
+#: our-theme/awp-theme.php:62
+msgid "High Performance"
+msgstr "Высокая производительность"
+
+#: our-theme/awp-theme.php:72
+msgid "Theme Option Panel"
+msgstr "Панель параметров темы"
+
+#: our-theme/awp-theme.php:81
+msgid "Translation Ready"
+msgstr "Готов к переводу"
+
+#: our-theme/awp-theme.php:90
+msgid "Font Awesome Icons"
+msgstr "Значок Font Awesome"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:347
+msgid "Extra recommends the following plugin: %1$s."
+msgid_plural "Extra recommends the following plugins: %1$s."
+msgstr[0] "Доп рекомендуем следующий плагин: %1$s."
+msgstr[1] "Доп рекомендуем следующие плагина: %1$s."
+msgstr[2] "Доп рекомендуем следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин необходимо обновить до последней версии, чтобы обеспечить макс. совместимость с этой темой: %1$s."
+msgstr[1] "Следующие плагина необходимо обновить до последней версии, чтобы обеспечить макс. совместимость с этой темой: %1$s."
+msgstr[2] "Следующие плагинов необходимо обновить до последней версии, чтобы обеспечить макс. совместимость с этой темой: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#: class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:920
+#: class-tgm-plugin-activation.php:2646 class-tgm-plugin-activation.php:3697
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: class-tgm-plugin-activation.php:395 class-tgm-plugin-activation.php:3065
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Вместо этого установите переменную конфигурации parent_slug."
+
+#: class-tgm-plugin-activation.php:1029
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: class-tgm-plugin-activation.php:1029 class-tgm-plugin-activation.php:1039
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: class-tgm-plugin-activation.php:1039
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Удаленный пакет плагина состоит из более чем одного файла, но файлы не упакованы в папку."
+
+#: class-tgm-plugin-activation.php:1228 class-tgm-plugin-activation.php:3061
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:2095
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2389
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: class-tgm-plugin-activation.php:2405
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: class-tgm-plugin-activation.php:2408
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: class-tgm-plugin-activation.php:2411
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: class-tgm-plugin-activation.php:2428
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: class-tgm-plugin-activation.php:2432
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: class-tgm-plugin-activation.php:2434
+msgid "Active"
+msgstr "Активен"
+
+#: class-tgm-plugin-activation.php:2440
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: class-tgm-plugin-activation.php:2446
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2455
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2501
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2505
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2509
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2513
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2595
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: class-tgm-plugin-activation.php:2611
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: class-tgm-plugin-activation.php:2646
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: class-tgm-plugin-activation.php:2660
+msgid "Plugin"
+msgstr "Плагин"
+
+#: class-tgm-plugin-activation.php:2661
+msgid "Source"
+msgstr "Источник"
+
+#: class-tgm-plugin-activation.php:2662
+msgid "Type"
+msgstr "Тип"
+
+#: class-tgm-plugin-activation.php:2666
+msgid "Version"
+msgstr "Версия"
+
+#: class-tgm-plugin-activation.php:2667
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2716
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2721
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2727
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: class-tgm-plugin-activation.php:2797
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: class-tgm-plugin-activation.php:2830
+msgid "Install"
+msgstr "Установка"
+
+#: class-tgm-plugin-activation.php:2836
+msgid "Update"
+msgstr "Обновить"
+
+#: class-tgm-plugin-activation.php:2839
+msgid "Activate"
+msgstr "Активировать"
+
+#: class-tgm-plugin-activation.php:2870
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: class-tgm-plugin-activation.php:2872
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: class-tgm-plugin-activation.php:2913
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: class-tgm-plugin-activation.php:2915
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: class-tgm-plugin-activation.php:3021
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: class-tgm-plugin-activation.php:3047
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3615
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3618
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3620
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: class-tgm-plugin-activation.php:3624
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3626
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3626 class-tgm-plugin-activation.php:3634
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3626 class-tgm-plugin-activation.php:3634
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: class-tgm-plugin-activation.php:3627
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3629
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3632
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3634
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: class-tgm-plugin-activation.php:3635
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3637
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2386
+msgid "Required"
+msgstr "Обязательное"
+
+#: responsive-slider-gallery.php:148
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#. Author URI of the plugin
+msgid "https://awplife.com/"
+msgstr "https://awplife.com/"
+
+#. Plugin URI of the plugin
+msgid "https://awplife.com/wordpress-plugins/responsive-slider-gallery-premium/"
+msgstr "https://awplife.com/wordpress-plugins/responsive-slider-gallery-premium/"
+
+#. Author of the plugin
+msgid "A WP Life"
+msgstr "A WP Life"
+
+#: slider-settings.php:83 slider-settings.php:150
+msgid "None"
+msgstr "Отсутствует"
+
+#: slider-settings.php:182 slider-settings.php:208 slider-settings.php:234
+#: slider-settings.php:286 slider-settings.php:312
+msgid "Yes"
+msgstr "Да"
+
+#: slider-settings.php:189 slider-settings.php:215 slider-settings.php:241
+#: slider-settings.php:293 slider-settings.php:319
+msgid "No"
+msgstr "Нет"
+
+#: responsive-slider-gallery.php:195
+msgid "Docs"
+msgstr "Документация"
+
+#: responsive-slider-gallery.php:196
+msgid "Our Theme"
+msgstr "Наша тема"
+
+#: slider-settings.php:260
+msgid "Show"
+msgstr "Показать"
+
+#: slider-settings.php:267
+msgid "Hide"
+msgstr "Скрыть"
+
+#: slider-settings.php:335 slider-settings.php:344
+msgid "Buy Premium Version"
+msgstr "Купить Премиум-версию"
+
+#: slider-settings.php:368
+msgid "Plugins Bale Offer"
+msgstr "Плагины Bale Offer"
+
+#: shortcode.php:129
+msgid "Sorry! No slides added to the slider shortcode yet. Please add few slide into shortcode"
+msgstr "В шорткод слайдера еще не добавлены слайды. Добавьте несколько слайдов в шорткод"
+
+#: responsive-slider-gallery.php:256
+msgid "Add Image Slides"
+msgstr "Добавить слайды изображений"
+
+#: responsive-slider-gallery.php:301
+msgid "Delete All Slide"
+msgstr "Удалить все слайды"
+
+#: responsive-slider-gallery.php:328
+msgid "New Slide"
+msgstr "Новый слайд"
+
+#: responsive-slider-gallery.php:332
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: slider-settings.php:143
+msgid "Cover"
+msgstr "Обложка"
+
+#: slider-settings.php:325
+msgid "Thumbnail Settings"
+msgstr "Настройки миниатюры"
+
+#: our-theme/awp-theme.php:38 slider-settings.php:374
+msgid "BUY NOW"
+msgstr "Купить сейчас"
+
+#: responsive-slider-gallery.php:212
+msgid "Parent Item"
+msgstr "Родительский элемент"
+
+#: responsive-slider-gallery.php:216
+msgid "New Gallery"
+msgstr "Новая галерея"
+
+#: responsive-slider-gallery.php:217
+msgid "Edit Gallery"
+msgstr "Изменить галерею"
+
+#: responsive-slider-gallery.php:219
+msgid "Search Gallery"
+msgstr "Поиск галереи"
+
+#: responsive-slider-gallery.php:315 responsive-slider-gallery.php:352
+msgid "Delete Slide"
+msgstr "Удалить слайд"
+
+#: slider-settings.php:76
+msgid "Dots"
+msgstr "Точки"
+
+#: slider-settings.php:117
+msgid "True"
+msgstr "True"
+
+#: slider-settings.php:124
+msgid "False"
+msgstr "False"
+
+#: slider-settings.php:327
+msgid "Slide Direction"
+msgstr "Направление слайда"
+
+#: responsive-slider-gallery.php:208
+msgctxt "Post Type General Name"
+msgid "Responsive Slider Galleries"
+msgstr "Responsive Slider Galleries"
+
+#: responsive-slider-gallery.php:209
+msgctxt "Post Type Singular Name"
+msgid "Responsive Slider Gallery"
+msgstr "Responsive Slider Gallery"
+
+#. Plugin Name of the plugin
+#: responsive-slider-gallery.php:57 responsive-slider-gallery.php:210
+#: responsive-slider-gallery.php:211 responsive-slider-gallery.php:224
+#: slider-settings.php:386
+msgid "Responsive Slider Gallery"
+msgstr "Responsive Slider Gallery"
+
+#: responsive-slider-gallery.php:213
+msgid "All Slider Gallery"
+msgstr "Все Slider Gallery"
+
+#: responsive-slider-gallery.php:214 responsive-slider-gallery.php:215
+msgid "Add Slider Gallery"
+msgstr "Добавить Slider Gallery"
+
+#: responsive-slider-gallery.php:218
+msgid "Update Gallery"
+msgstr "Обновить галерею"
+
+#: responsive-slider-gallery.php:220
+msgid "Gallery Not found"
+msgstr "Галерея не найдена"
+
+#: responsive-slider-gallery.php:221
+msgid "Gallery Not found in Trash"
+msgstr "Галерея не найдена в корзине"
+
+#: responsive-slider-gallery.php:225
+msgid "Custom Post Type For Responsive Slider Gallery"
+msgstr "Пользовательский тип записи для Responsive Slider Gallery"
+
+#: responsive-slider-gallery.php:314 responsive-slider-gallery.php:351
+msgid "Slide Title"
+msgstr "Заголовок слайда"
+
+#: slider-settings.php:36
+msgid "A. Width"
+msgstr "А. Ширина"
+
+#: slider-settings.php:45
+msgid "Set slider width in pixels and percents like 300px / 600px / 800px OR 25% / 50% / 100%"
+msgstr "Установите ширину слайдера в пикселях и процентах, например 300 пикселей / 600 пикселей / 800 пикселей ИЛИ 25% / 50% / 100%"
+
+#: slider-settings.php:49
+msgid "B. Height"
+msgstr "Б. Высота"
+
+#: slider-settings.php:58
+msgid "Set slider height in pixels and percents like 300px / 600px / 800px OR 25% / 50% / 100%"
+msgstr "Установите высоту слайдера в пикселях и процентах, например 300 пикселей / 600 пикселей / 800 пикселей ИЛИ 25% / 50% / 100%"
+
+#: slider-settings.php:61
+msgid "C. Navigation Style"
+msgstr "C. Стиль навигации"
+
+#: slider-settings.php:379
+msgid "Try Our Other Free Plugins :"
+msgstr "Попробуйте другие наши бесплатные плагины:"
+
+#: slider-settings.php:328
+msgid "Click Transition"
+msgstr "Нажмите Переход"
+
+#: slider-settings.php:329
+msgid "Transition Effects"
+msgstr "Эффекты перехода"
+
+#: slider-settings.php:330
+msgid "Shuffle Slide Show"
+msgstr "Слайд-шоу в случайном порядке"
+
+#: slider-settings.php:331
+msgid "Stop Auto Play On Touch"
+msgstr "Остановить авто воспроизведение при касании"
+
+#: slider-settings.php:89
+msgid "1. Navigation Width"
+msgstr "1. Ширина навигации"
+
+#: slider-settings.php:98
+msgid "Set navigation width in pixels or percent"
+msgstr "Установите ширину навигации в пикселях или процентах"
+
+#: slider-settings.php:102
+msgid "D. Full Screen Slider"
+msgstr "D. Полноэкранный слайдер"
+
+#: slider-settings.php:125
+msgid "Set full screen view of slider like True / False / Native"
+msgstr "Установите полноэкранный просмотр слайдера, например True / False / Native."
+
+#: slider-settings.php:151
+msgid "Set how to fit slides into slider frame"
+msgstr "Установите способ размещения слайдов в рамке слайдера"
+
+#: slider-settings.php:155
+msgid "F. Transition Effect Duration"
+msgstr "F. Длительность эффекта перехода"
+
+#: slider-settings.php:164
+msgid "Set transition effect duration in millisecond between slides like 50 / 100 / 250 / 500"
+msgstr "Установите продолжительность эффекта перехода в миллисекундах между слайдами, например 50/100/250/500."
+
+#: slider-settings.php:167
+msgid "G. Slider Text"
+msgstr "G. Текст слайдера"
+
+#: slider-settings.php:190
+msgid "Set slider text visibility on slider"
+msgstr "Установить видимость текста слайдера на слайдере"
+
+#: slider-settings.php:193
+msgid "H. Auto Play"
+msgstr "H. Автовоспроизведение"
+
+#: slider-settings.php:216
+msgid "Set auto play to slides automatically"
+msgstr "Установите автовоспроизведение слайдов"
+
+#: slider-settings.php:219
+msgid "I. Loop"
+msgstr "I. Зациклить"
+
+#: slider-settings.php:242
+msgid "Set loop to slides continuously"
+msgstr "Установите цикл на слайды непрерывно"
+
+#: slider-settings.php:245
+msgid "J. Navigation Arrow"
+msgstr "J. Стрелка навигации"
+
+#: slider-settings.php:268
+msgid "Set navigation arrow display options"
+msgstr "Установить параметры отображения стрелок навигации"
+
+#: slider-settings.php:271
+msgid "K. Touch Slide"
+msgstr "K. Сенсорный слайд"
+
+#: slider-settings.php:297
+msgid "L. Slide Loading Spinner"
+msgstr "L. Спиннер загрузки слайдов"
+
+#: slider-settings.php:323
+msgid "M. Premium Version Settings"
+msgstr "M. Настройки Премиум-версии"
+
+#: slider-settings.php:326
+msgid "Full Screen Slider"
+msgstr "Полноэкранный слайдер"
+
+#: slider-settings.php:333
+msgid "Slider Text Option"
+msgstr "Параметры текста слайдера"
+
+#: slider-settings.php:334
+msgid "Upgrade To Pro Version For This All Settings"
+msgstr "Обновите до версии Pro для всех этих настроек"
+
+#. Description of the plugin
+msgid "A Responsive Simple Beautiful Easy Powerful CSS & JS Based WordPress Image Slider Gallery Plugin [standard]"
+msgstr "Отзывчивый простой красивый мощный плагин WordPress Image Slider Gallery на основе CSS и JS [стандарт]"
+
+#: slider-settings.php:332
+msgid "Fit Slides"
+msgstr "Вписать слайды"
+
+#: slider-settings.php:128
+msgid "E. Fit Slides"
+msgstr "E. Вписать слайды"
+
+#: slider-settings.php:294
+msgid "Set touch slide to slide images using mouse touch or swipe action"
+msgstr "Установите сенсорный слайд, чтобы сдвигать изображения с помощью прикосновения мыши или пролистывания"

@@ -401,7 +401,7 @@ function nirvana_site_info() { ?>
 	<?php _e('Powered by','nirvana')?> <a target="_blank" href="<?php echo 'http://www.cryoutcreations.eu';?>" title="<?php echo 'Nirvana Theme by '. 'Cryout Creations';?>"><?php echo 'Nirvana' ?></a> &amp;
 	<a target="_blank" href="<?php echo 'http://wordpress.org/'; ?>" title="<?php _e('Semantic Personal Publishing Platform', 'nirvana'); ?>"> <?php printf(' %s.', 'WordPress' ); ?></a></em>
 	<?php } // nirvana_site_info()
-add_action('cryout_footer_hook','nirvana_site_info',15);
+#add_action('cryout_footer_hook','nirvana_site_info',15);
 
 
 /**

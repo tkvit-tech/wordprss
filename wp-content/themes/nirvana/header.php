@@ -13,6 +13,8 @@
 <head>
 <?php  cryout_meta_hook(); ?>
 <meta http-equiv="Content-Type" content="text/html; charset=<?php bloginfo( 'charset' ); ?>" />
+<meta name="yandex-verification" content="9cd4c05c7d917038" />
+<meta name="google-site-verification" content="PEqcMZF-qLKoMeJd1VwJD2KlZtLLTITrxk5XVwsZUGc" />
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php
